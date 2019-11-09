@@ -16,4 +16,4 @@ Le projet a été séparé en quatre modules :
 > - mise en place du capteur de mesure de vitesse et de distance entre deux points.
 > - mise en place de la transmission sans fil avec trames cryptés.
 
-> La [phase 4](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_4) consistait a créer une interface de visualisation de la voiture sur la carte de la ville.
+> La [phase 4](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_4) consistait à créer une interface de visualisation de la voiture sur la carte de la ville.
