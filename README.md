@@ -4,7 +4,7 @@ Le projet consistait à créer une voiture autonome. Avant de commencer le proje
 
 Le projet a été séparé en quatre modules :
 > La [phase 1](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_1) a été divisée en trois sous parties :
-> - montage de voiture.
+> - montage de la voiture.
 > - comparaison d'une voiture en train de suivre une ligne avec trois capteurs et quatre capteurs.
 > - calculs scientifiques pour calculer la vitesse théorique de la voiture.
 
