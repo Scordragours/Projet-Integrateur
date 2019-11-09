@@ -9,7 +9,7 @@ Le projet a été séparé en quatre modules :
 > - calculs scientifiques pour mesurer la vitesse théorique de la voiture.
 
 > La [phase 2](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_2) a été divisée en deux sous parties :
-> - calcule du déplacement d'un drone entre deux points, au dessus d'un bâtiment.
+> - calculs en vue de déterminer le déplacement d'un drone entre deux points, au dessus d'un bâtiment.
 > - démonstration du pathfinding et des premiers mouvement du robot.
 
 > La [phase 3](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_3) a été divisée en deux sous parties :
