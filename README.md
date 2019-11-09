@@ -6,7 +6,7 @@ Le projet a été séparé en quatre modules :
 > La [phase 1](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_1) a été divisée en trois sous parties :
 > - montage de la voiture.
 > - comparaison d'une voiture équipée de trois puis de quatre capteurs en train de suivre une ligne.
-> - calculs scientifiques pour calculer la vitesse théorique de la voiture.
+> - calculs scientifiques pour mesurer la vitesse théorique de la voiture.
 
 > La [phase 2](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_2) a été divisé en deux sous parties :
 > - calcule du déplacement d'un drone entre deux points, au dessus d'un bâtiment.
