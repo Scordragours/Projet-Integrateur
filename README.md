@@ -1,4 +1,5 @@
 # Projet intégrateur :
+![](https://repository-images.githubusercontent.com/219991038/c78deff7-1bcc-467d-93c8-9d37c9b8cfcd)
 
 Le projet consistait à créer une voiture autonome. Avant de commencer le projet nous avons détaillé les besoins du projet dans la [phase 0](https://github.com/Scordragours/Projet-Integrateur/tree/master/Phase_0).
 
